@@ -48,8 +48,8 @@ require("lazy").setup({
           registers = true,     -- show registers
           spelling = { enabled = true },
         },
-        icons = { breadcrumb = "»", separator = "➜", group = "+" },
-        window = { border = "rounded", position = "bottom", padding = { 2, 2, 2, 2 } },
+        icons = { breadcrumb = "", separator = ":", group = "+" },
+        window = { border = "rounded", position = "bottom", padding = { 0, 0, 0, 0 } },
       })
     end
   },
