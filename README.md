@@ -1,1 +1,1 @@
-# oh-mz-zsh-settings
+# oh-my-zsh-settings
