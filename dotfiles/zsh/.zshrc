@@ -104,6 +104,6 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 setopt PROMPT_SUBST
 
-PROMPT='%~[%F{cyan}$(git symbolic-ref --short HEAD 2>/dev/null)%f] '
+PROMPT='%~  :aaaaa[%F{cyan}$(git symbolic-ref --short HEAD 2>/dev/null)%f] '
 
 
